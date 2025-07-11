@@ -11,7 +11,7 @@ Hi, I'm **Mark M.**, a data scientist with a PhD in Cognitive Psychology and Qua
 
 I provide quantitative research and data analysis services.
 
-Testing1.
+Testing1. Testing2. Testing3.
 
 📄 [View my CV](./files/MarkM_CV.pdf)  
 💼 [View my projects](./projects)  
