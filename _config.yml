@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "/images/Mills_Mark_2024.JPG"
   name             : "Mark M"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  pronouns         : "he/him"  
+  bio              : "Data solutions engineer."
+  location         : "Ann Arbor"
+  employer         : "University of Michigan"
+  uri              : "https://ai.umich.edu/staff/mark-mills/"
   email            : "mark.mills402@gmail.com" 
 
   # Academic websites
