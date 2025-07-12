@@ -18,6 +18,8 @@ date: 2024-09-27
 location: "Los Angeles, CA, USA"
 ---
 
+<img src="/files/nacac-intro.jpg" alt="NACAC Intro Thumbnail" style="max-width: 100%; height: auto;">
+
 Standardized test scores (e.g., SAT, ACT) are understood to predict college performance - on average. There is variation around this average, though. Some students perform about as expected, but others perform better or worse. At Ross Business School, most students perform at a pretty high level. As such, leadership wanted to understand the degree to which standardized test scores predict college performance in their students. 
 
 Given the nesting of grades in students, courses, and terms, multilevel modeling was used to isolate these sources of grade variance and quantify the association between standardized test scores and grades for different levels of analysis.
