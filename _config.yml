@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/Mills_Mark_2024.JPG"
-  name             : "Mark Mills"
-  pronouns         : "he/him"  
+  name             : "Mark Mills (he/him)"
+  #pronouns         : "he/him"  
   bio              : "Strategic Analytics Partner"
   location         : "Ann Arbor"
   employer         : "University of Michigan"
