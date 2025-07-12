@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/Mills_Mark_2024.JPG"
-  name             : "Mark M"
+  name             : "Mark Mills"
   pronouns         : "he/him"  
   bio              : "Data solutions engineer."
   location         : "Ann Arbor"
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mark-mills-phd/"
+  linkedin         : "mark-mills-phd"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
