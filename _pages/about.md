@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Mark Mills.**, a data scientist with a PhD in Quantitative and Cognitive Psychology.
+Hi, I'm **Mark Mills**, a data scientist with a PhD in Quantitative and Cognitive Psychology.
 
 I provide quantitative research and data analysis solutions.
 
