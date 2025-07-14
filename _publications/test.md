@@ -1,5 +1,5 @@
 ---
-title: "LLM"
+title: "From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries"
 collection: publications
 category: manuscripts
 permalink: /publication/test
