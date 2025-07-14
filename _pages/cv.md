@@ -63,4 +63,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024-2025 DEI Council, Member, Center for Academic Innovation
+* 2019-2022 Institutional Review Board (IRB), Secretary, Alma College
+* 2010-2012 Department Graduate Student Association (GSA), President, University of Nebraska
