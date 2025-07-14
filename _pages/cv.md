@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* 2022-Current: Senior Data Scientist
+* 2022-Present: Senior Data Scientist
   * Center for Academic Innovation, University of Michigan
   * Duties: Provide data and analytic support for research, business intelligence, product, and marketing teams. Build and maintain data pipelines that enable self-service analytic and visualization solutions.
 
@@ -33,14 +33,13 @@ Work experience
   * Modeling Spatial Attention, University of Toronto
   * Duties: Lead experimental and computational studies of visual spatial attention. Provide statistical consulting for Psychology Department.
   
-Skills
+Analytic and Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SQL for querying, transformation, and data pipeline development
+* Cloud-based data warehousing (e.g., Oracle, Redshift, Snowflake)
+* Statistical modeling, machine learning, and hypothesis testing (e.g., Python, R, SAS, SPSS)
+* Data visualization and reporting (e.g., Looker, Tableau)
+* Cross-functional collaboration and stakeholder-focused storytelling
 
 Publications
 ======
