@@ -9,7 +9,7 @@
 
 #[More information here](http://example2.com)
 
-title: "NACAC 2024 Conference Talk"
+title: "NACAC 2024"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2024-09-27-nacac-talk
