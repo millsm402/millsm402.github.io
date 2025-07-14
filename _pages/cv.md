@@ -65,4 +65,4 @@ Service and leadership
 ======
 * 2024-2025 DEI Council, Member, Center for Academic Innovation
 * 2019-2022 Institutional Review Board (IRB), Secretary, Alma College
-* 2010-2012 Department Graduate Student Association (GSA), President, University of Nebraska
+* 2010-2012 Graduate Student Association (GSA), President, University of Nebraska
