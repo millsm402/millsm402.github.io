@@ -13,6 +13,6 @@ I provide quantitative research and data analysis solutions.
 
 Take a look at some of my work.
 
-📄 [View my CV](./files/MarkM_CV.pdf)  
-💼 [View my projects](./projects)  
+📄 [View my CV](/files/cv-2025-07-11.pdf)  
+💼 [View my projects](/projects)  
 📫 [Contact me](mailto:mark.mills402@gmail.com)
