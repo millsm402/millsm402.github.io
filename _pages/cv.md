@@ -23,15 +23,15 @@ Work experience
 ======
 * 2022-Present: Senior Data Scientist
   * Center for Academic Innovation, University of Michigan
-  * Duties: Provide data and analytic support for research, business intelligence, product, and marketing teams. Build and maintain data pipelines that enable self-service analytic and visualization solutions.
+  * Provide data and analytic support for research, business intelligence, product, and marketing teams. Build and maintain data pipelines that enable self-service analytic and visualization solutions.
 
 * 2018-2022: Assistant Professor
   * Department of Psychology, Alma College
-  * Duties: Principal Investigator of cognition, attitudes, and policy lab. Taught Statistics, Methods, and Cognition.
+  * Principal Investigator of cognition, attitudes, and policy lab. Taught Statistics, Methods, and Cognition.
 
 * 2016-2018: Post Doctoral Fellow
   * Modeling Spatial Attention, University of Toronto
-  * Duties: Lead experimental and computational studies of visual spatial attention. Provide statistical consulting for Psychology Department.
+  * Lead experimental and computational studies of visual spatial attention. Provide statistical consulting for Psychology Department.
   
 Analytic and Technical Skills
 ======
@@ -52,12 +52,14 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<!--  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
