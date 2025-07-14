@@ -13,7 +13,7 @@ title: "NACAC 2024"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2024-09-27-nacac-talk
-venue: "Standardized Testing & College Grades: A Look at Their Association and Why Authentic Student Work is Important"
+venue: "National Association for College Admission Counseling"
 date: 2024-09-27
 location: "Los Angeles, CA, USA"
 ---
