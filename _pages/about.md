@@ -13,7 +13,7 @@ With 10+ years of experience in applied statistical modeling, predictive analyti
 
 Take a look around at recent Publications, Talks, and Portfolio pieces. <a href="/files/cv-2025-07-11.pdf" target="_blank" rel="noopener noreferrer">
   You can also view my full CV
-</a> for a complete body of work.
+</a>  for a complete body of work.
 
 <!--<a href="/files/cv-2025-07-11.pdf" target="_blank" rel="noopener noreferrer">
   📄 View my full CV for a complete body of work
