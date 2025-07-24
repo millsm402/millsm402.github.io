@@ -1,5 +1,5 @@
 ---
-title: "Driving Marketing Impact with Data-Driven Personas (2024)"
+title: "Driving Marketing Impact with Data-Driven Personas"
 excerpt: "Enabling personalized marketing outreach.<br/><img src='/files/port-pc-fig.jpg' style='width:75%;'>"
 collection: portfolio
 ---
