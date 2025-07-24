@@ -15,8 +15,7 @@ Take a look at some recent Publications, Talks, and Portfolio pieces.
 
 You can also <a href="/files/cv-2025-07-11.pdf" target="_blank" rel="noopener noreferrer">
   view my full CV
-</a> <br>
-for a complete body of work.
+</a> for a complete body of work.
 
 <!--<a href="/files/cv-2025-07-11.pdf" target="_blank" rel="noopener noreferrer">
   📄 View my full CV for a complete body of work
