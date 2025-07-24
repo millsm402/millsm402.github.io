@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Mark Mills**, a data scientist with a PhD in Quantitative and Cognitive Psychology. I provide research and data analysis solutions. 
+Hi, I'm **Mark Mills**, a data scientist with a PhD in Quantitative and Cognitive Psychology. I provide human-centered research and data analysis solutions. 
 
 With 10+ years of experience in applied statistical modeling, predictive analytics, and stakeholder-focused data strategy, I am adept at translating complex business and research questions into actionable, ethically grounded insights. Using a flexible tech stack (e.g., Python, R, SQL, cloud-based warehousing and visualization tools), I am committed to building representative, rigorous, and trustworthy data products that drive growth and impact.
 
