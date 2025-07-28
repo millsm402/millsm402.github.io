@@ -19,22 +19,24 @@
   </ul>
 </div>
 {% endif %}
+-->
 
+<!--
+<footer class="site-footer">
+  <p>&copy; {{ site.time | date: '%Y' }} Mark Mills. All Rights Reserved.</p>
+  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+</footer>
+-->
+
+<footer class="site-footer" style="line-height: 1.2;">
+  <p>&copy; {{ site.time | date: '%Y' }} Mark Mills. All Rights Reserved.</p>
+  <p>Site last updated {{ "now" | date: '%Y-%m-%d' }}</p>
+</footer>
+
+
+<!--
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' %}}
 </div>
 -->
-<footer class="site-footer">
-  <p>&copy; {{ site.time | date: '%Y' }} Mark Mills. All Rights Reserved.</p>
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
-</footer>
-
-<!--
-<footer class="site-footer">
-  <p>&copy; {{ site.time | date: '%Y' }} Mark Mills. All Rights Reserved.</p>
-  <p><a href="/files/cv-2025-07-11.pdf" target="_blank">Download My CV</a></p>
-</footer>
--->
-
-
