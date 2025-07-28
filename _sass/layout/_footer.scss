@@ -94,3 +94,8 @@
     }
   }
 }
+
+/* Hide the follow feed and sitemap link */
+.page__footer-follow {
+  display: none;
+}
