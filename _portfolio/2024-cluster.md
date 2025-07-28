@@ -47,3 +47,4 @@ def calculate_ccc(data, clusters, n_clusters):
     ccc = (r2 - e_r2) / np.sqrt(var_r2)
     
     return ccc, r2
+```
