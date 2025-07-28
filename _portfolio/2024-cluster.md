@@ -96,7 +96,7 @@ def kmeans_clustering(maxiter, var_list, data):
     plt.show()
 ```
 
-The CCC and Pseudo F metrics work together to identify the “sweet spot” for the number of clusters (where local peaks overlap), enabling a non-technical user to run the analysis and select a data-driven solution without statistical expertise.
+The CCC and Pseudo F metrics (Figure 1) work together to identify the “sweet spot” for the number of clusters (where local peaks overlap), enabling a non-technical user to run the analysis and select a data-driven solution without statistical expertise. Figure 1 indicates a seven cluster solution.
 
 <!--  FIGURE: CLUSTERING SOLUTION PLOT  -->
 Figure 1. Plot of decision criteria (CCC and Pseudo F) for determining the number of clusters. 
