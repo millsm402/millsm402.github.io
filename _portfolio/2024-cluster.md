@@ -6,15 +6,9 @@ collection: portfolio
 
 Here I partnered with the Marketing Team to develop data-driven personas that enhanced campaign precision and engagement. To do so I leveraged customer segmentation, behavioral analytics, and clustering techniques to translate raw data into actionable profiles that enable personalized outreach.
 
-The project stood out by automating a human-in-the-loop clustering solution. Cluster analysis is an unsupervised learning method used to uncover natural groupings within data by measuring similarities between data points. In marketing, for example, it can segment customers with shared traits into distinct groups, enabling more targeted and effective strategies. A key challenge is selecting a practical number of clusters — enough to capture meaningful differences, but few enough to act on with available resources. 
+The **project stood out by automating a human-in-the-loop clustering solution**. Cluster analysis is an unsupervised learning method used to uncover natural groupings within data by measuring similarities between data points. In marketing, for example, it can segment customers with shared traits into distinct groups, enabling more targeted and effective strategies. A key challenge is selecting a practical number of clusters — enough to capture meaningful differences, but few enough to act on with available resources. 
 
-
-
-To help the marketing team perform clustering without manually deciding on the number of clusters, I developed a two-part Python pipeline. The first function (calculate_ccc) computes the Cubic Clustering Criterion (CCC), a statistic that quantifies how well-defined clusters are compared to random noise. 
-
-
-
-Cubic Clustering Criterion (CCC) and Pseudo F work together to identify an appropriate clustering solution. CCC is not native to Python, so I wrote a function (calculate_ccc) to compute it. 
+To help the marketing team perform clustering without manually deciding on the number of clusters, I developed a two-part Python pipeline. The first function (calculate_ccc) computes the Cubic Clustering Criterion (CCC), a statistic that quantifies how well-defined clusters are compared to random noise.  
 
 ```python
 # Function to calculate Cubic Clustering Criterion (CCC)
@@ -102,7 +96,7 @@ def kmeans_clustering(maxiter, var_list, data):
     plt.show()
 ```
 
-The CCC and Pseudo F metrics identify the “sweet spot” for the number of clusters (where local peaks overlap), enabling a non-technical user to run the analysis and select a data-driven solution without statistical expertise.
+The CCC and Pseudo F metrics work together to identify the “sweet spot” for the number of clusters (where local peaks overlap), enabling a non-technical user to run the analysis and select a data-driven solution without statistical expertise.
 
 <!--  FIGURE: CLUSTERING SOLUTION PLOT  -->
 Figure 1. Plot of decision criteria (CCC and Pseudo F) for determining the number of clusters. 
