@@ -49,7 +49,7 @@ def calculate_ccc(data, clusters, n_clusters):
     return ccc, r2
 ```
 
-This (calculate_ccc) function can then be called within the clustering function below, kmeans_clustering. This function is the driver — it runs the clustering, calls the first function for CCC, plots results, and returns insights. 
+The calculate_ccc function can then be called within the clustering function below, kmeans_clustering. This function is the driver — it runs the clustering, calls the first function for CCC, plots results, and returns insights. 
 
 ```python
 def kmeans_clustering(maxiter, var_list, data):
