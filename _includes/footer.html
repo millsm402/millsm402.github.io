@@ -1,29 +1,3 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <ul class="contact-list">
-          <!-- Sitemap -->
-          <li><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a> — 
-              {{ site.title | default: site.github.repository_name }}</li>
-
-          <!-- Copyright -->
-          <li>&copy; {{ site.time | date: "%Y" }} {{ site.author.name | default: site.github.owner_name }}</li>
-
-          <!-- Last updated -->
-          <li>Last updated: {{ site.time | date: "%B %d, %Y" }}</li>
-        </ul>
-      </div>
-    </div>
-    
-  </div>
-</footer>
-
-
-
-
 <!--
 {% include base_path %}
 
@@ -51,12 +25,10 @@
   Site last updated {{ "now" | date: '%Y-%m-%d' %}}
 </div>
 -->
-
-<!--
 <footer class="site-footer">
   <p>&copy; {{ site.time | date: '%Y' }} Mark Mills. All Rights Reserved.</p>
+  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
 </footer>
--->
 
 <!--
 <footer class="site-footer">
