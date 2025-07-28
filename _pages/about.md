@@ -24,4 +24,9 @@ You can also <a href="/files/cv-2025-07-11.pdf" target="_blank" rel="noopener no
 💼 [View my projects](/projects)  -->
 📫 [Contact me](mailto:mark.mills402@gmail.com)
 
+<!--
 <img src="/files/fun-paranormal-distribution.png" alt="Paranormal Distribution" style="max-width: 100%; height: auto;">
+-->
+<div style="text-align: center;">
+  <img src="/files/fun-paranormal-distribution.png" alt="Paranormal Distribution" style="max-width: 100%; height: auto;">
+</div>
