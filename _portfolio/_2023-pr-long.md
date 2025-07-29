@@ -4,16 +4,16 @@ title: "Enabling Personalization at Scale"
 excerpt: "Improving the intelligence underlying a practice test delivery system.<br/><img src='/files/port-pr-streaks-counter.png' style='width:75%;'>"
 collection: portfolio
 ---
-TEST
+
 One of my machine learning projects was to work with software, behavioral science, and product teams to improve the intelligence underling an educational technology tool called <a href="https://problemroulette.ai.umich.edu/Welcome/" target="_blank">Problem Roulette</a> - an online quiz delivery system built and hosted by the Center for Academic Innovation. The end goals of the project were to (1) serve students personalized study tips, and (2) to enable adaptive question delivery.
 
 ## (1) PERSONALIZED STUDY TIPS
 
 The first step to serving personlized study tips was to decide what information to provide study tips for. Decision Tree modeling was used for this decision. Dozens of behaviors in Problem Roulette (page views, latency, number of questions answered, accuracy, etc.) were compared to determine which were most strongly related to course grade. The top three are listed below. 
 
-- **Study Volume** (total questions completed)  
-- **Accuracy** (percent correct)  
-- **Question Difficulty** (how hard the questions were)
+    Study Volume (total number of questions completed)
+    Accuracy (total number correct)
+    Question Difficulty (fraction of correct responses to total attempts)
 
 With a list of key behaviors in hand, the next step was to understand their inter-relationships so that personalized messaging can be developed. Figure 1 was helpful in this regard. It shows the conditions under which a particular behavior was more or less effective at impacting course grade. For example, it can be seen from the steep slopes of the green lines that adding study volume is very beneficial when accuracy is high, but is considerably less beneficial when accuracy is lower, which can be seen in the flatter slopes of the red and blue lines. Accordingly, we would not want to nudge students with low accuracy to study more (volume will not helpful) but rather to study more intentionally (accuracy will be helpful).
 
@@ -247,3 +247,21 @@ SELECT
     user_mean_qdiff AS difficulty_score
 FROM user_mean_qdiff;
 ```
+
+
+<!--
+
+THIS IS PROBABLY TOO MUCH INFO FOR A SINGLE POST 
+
+In addition to improving user experience through personalization, we also aimed to improve it through gamification. To that end, we wanted students to earn badges associated with predictors of success. Internal research suggested two key predictor of success were (1) study volume, and (2) study accuracy (specifically, stringing correct answers together in a row, which we call 'streaks').
+
+3) Adding gamification features
+
+When Problem Roulette was developed, its main value proposition was its test bank, which consisted of previously used test questions written by the professor of the course a student was taking. As we learned more about its ability to facilitate student success in the classroom, we wanted to find ways of encouraging its use. Personalization was one way we did so. Another way was through gamification. 
+
+During the discovery process for building the proficiency score model, it was clear that "streaks" of correctly answered questions were a strong predictor of course grades. One interpretation is that streaks represent very intentional, effortful studying. It's tough to string together several correct responses. Doing so is rarely due to chance, so whatever a student did to earn a streak really worked well for them. Our goal was to signal this back to students in order to encourage reflection 
+
+Figure 2. Mean course grade (GPE) by length of streak (number of questions completed in a row) and study volue (total number of questions completed).
+<img src="/files/port-pr-streaks-plot.jpg" alt="PR Dimensions" style="max-width: 100%; height: auto;">
+
+-->
