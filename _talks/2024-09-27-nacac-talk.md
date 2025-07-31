@@ -22,6 +22,9 @@ location: "Los Angeles, CA, USA"
 
 At Ross Business School, where most students already perform at a high academic level, leadership wanted to better understand how well standardized test scores like the SAT and ACT actually predict college performance. To do this, we used multilevel modeling to account for the way grades are influenced by students, courses, and academic terms. We found that the link between test scores and grades is weaker for students with higher scores, and that this relationship has been declining over time. As a result, the school has started exploring portfolio-based admissions and merit criteria as alternatives to standardized tests.
 
+<a href="/files/nacac-rideout-mills.pdf" target="_blank" rel="noopener noreferrer">
+  View conference slides
+</a>
 
 <!-- 
  
