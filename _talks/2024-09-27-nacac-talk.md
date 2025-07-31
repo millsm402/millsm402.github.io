@@ -20,6 +20,13 @@ location: "Los Angeles, CA, USA"
 
 <img src="/files/nacac-intro.jpg" alt="NACAC Intro Thumbnail" style="max-width: 100%; height: auto;">
 
+At Ross Business School, where most students already perform at a high academic level, leadership wanted to better understand how well standardized test scores like the SAT and ACT actually predict college performance. To do this, we used multilevel modeling to account for the way grades are influenced by students, courses, and academic terms. We found that the link between test scores and grades is weaker for students with higher scores, and that this relationship has been declining over time. As a result, the school has started exploring portfolio-based admissions and merit criteria as alternatives to standardized tests.
+
+
+<!-- 
+ 
+<img src="/files/nacac-intro.jpg" alt="NACAC Intro Thumbnail" style="max-width: 100%; height: auto;">
+
 Standardized test scores (e.g., SAT, ACT) are understood to predict college performance - on average. There is variation around this average, though. Some students perform about as expected, but others perform better or worse. At Ross Business School, most students perform at a pretty high level. As such, leadership wanted to understand the degree to which standardized test scores predict college performance in their students. 
 
 Given the nesting of grades in students, courses, and terms, multilevel modeling was used to isolate these sources of grade variance and quantify the association between standardized test scores and grades for different levels of analysis.
@@ -37,3 +44,4 @@ Accordingly, leadership has begun evaluating portfolio-based criteria as an alte
 <a href="/files/nacac-rideout-mills.pdf" target="_blank" rel="noopener noreferrer">
   View conference slides
 </a>
+-->

@@ -4,7 +4,7 @@ excerpt: "Unlocking personalized marketing outreach.<br/><img src='/files/port-p
 collection: portfolio
 ---
 
-Here I partnered with the Marketing Team to develop data-driven personas that enhanced campaign precision and engagement. To do so I leveraged customer segmentation, behavioral analytics, and clustering techniques to translate raw data into actionable profiles that enable personalized outreach.
+This project involved collaborating with the Marketing Team to develop data-driven personas that enhanced campaign precision and engagement. To do so I leveraged customer segmentation, behavioral analytics, and clustering techniques to translate raw data into actionable profiles that enable personalized outreach.
 
 The **project stood out by** automating a human-in-the-loop clustering solution. Cluster analysis is an unsupervised learning method used to uncover natural groupings within data by measuring similarities between data points. In marketing, for example, it can segment customers with shared traits into distinct groups, enabling more targeted and effective strategies. A key challenge is selecting a practical number of clusters — enough to capture meaningful differences, but few enough to act on with available resources. 
 
