@@ -59,24 +59,27 @@ The script:
 
 
 <details>
-<summary><strong>Step 1. Pull raw data, join, and filter out missing responses</strong></summary>
+  <summary><strong>Step 1. Pull raw data, join, and filter out missing responses</strong></summary>
 
-```sql
-WITH userQS AS (
-  SELECT 
-      s.course_id,
-      q.id AS user_question_id,
-      q.question_id,
-      q.user_id,
-      q.correct
-  FROM problemroulette.problem_roulette_userquestion q
-  LEFT JOIN problemroulette.problem_roulette_usersession s 
-         ON q.user_session_id = s.id
-  WHERE q.correct IS NOT NULL
-),
-```
+  <br>
+
+  ```sql
+  WITH userQS AS (
+    SELECT 
+        s.course_id,
+        q.id AS user_question_id,
+        q.question_id,
+        q.user_id,
+        q.correct
+    FROM problemroulette.problem_roulette_userquestion q
+    LEFT JOIN problemroulette.problem_roulette_usersession s 
+           ON q.user_session_id = s.id
+    WHERE q.correct IS NOT NULL
+  ),
+  ```
 
 </details>
+
 
 
 ## Step 1. Pull raw data, join, and filter out missing responses.
