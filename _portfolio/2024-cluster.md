@@ -1,5 +1,6 @@
 ---
 title: "Driving Marketing Impact with Data-Driven Personas"
+order: 3
 excerpt: "Unlocking personalized marketing outreach.<br/><img src='/files/port-pc-fig.jpg' style='width:75%;'>"
 collection: portfolio
 ---
